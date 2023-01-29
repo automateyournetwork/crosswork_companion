@@ -4,6 +4,32 @@ Business Ready Documents for Cisco Crosswork
 
 ## Current API Coverage
 
+Health Insights KPI Management Query
+
+    pulse_cpu_utilization
+
+    pulse_cpu_threshold
+
+    pulse_cef_drops
+
+    pulse_device_uptime
+
+    pulse_ethernet_port_error_counters
+
+    pulse_ethernet_port_packet_size_distribution
+
+    pulse_interface_packet_counters
+
+    pulse_interface_qos_egress
+
+    pulse_interface_qos_ingress
+
+    pulse_interface_rate_counters
+
+    pulse_memory_utilization
+
+NCA YANG Modules
+
 
 ## Installation
 

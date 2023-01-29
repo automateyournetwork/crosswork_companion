@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "crosswork_companion"
-version = "0.1.0"
+version = "0.1.1"
 description = "Business ready documents from Cisco Crosswork"
 authors = ["John Capobianco <ptcapo@gmail.com>"]
 packages = [{ include = "crosswork_companion", from = "src"}]
